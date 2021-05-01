@@ -9,7 +9,7 @@ Using Google Colab (Recommended):
 - No additional installation required
 - Create new folder in Google Colab, drag and drop files in  "data" folder into newly created folder directory.
 
-![ColabFileUpload][colabfiles.JPG]
+![](colabfiles.JPG)
 
 When using Jupyter Notebook, it is necessary to downgrade to python3.7
 - Using Anaconda Prompt, run  the command below
