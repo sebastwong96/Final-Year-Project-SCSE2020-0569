@@ -14,6 +14,7 @@ Using Google Colab (Recommended):
 - Create new folder in Google Colab, drag and drop files in  "data" folder into newly created folder directory.
 
 ![](colabfiles.JPG)
+- A point to note is that vcdb.csv is over 100MB, which will take a while to upload into Google Colab.
 
 When using Jupyter Notebook, it is necessary to downgrade to python3.7
 - Using Anaconda Prompt, run  the command below
