@@ -8,7 +8,9 @@ All codes are written using python3.7 and Jupyter Notebook/Google Colab
 Using Google Colab (Recommended):
 - No additional installation required
 - Create new folder in Google Colab, drag and drop files in  "data" folder into newly created folder directory.
-![ColabFileUpload][colabfiles.jpg]
+
+![ColabFileUpload][colabfiles.JPG]
+
 When using Jupyter Notebook, it is necessary to downgrade to python3.7
 - Using Anaconda Prompt, run  the command below
  ```sh
