@@ -7,6 +7,9 @@ A final year project that demonstrate techniques of OSINT to gather data and per
 All codes are written using python3.7 and Jupyter Notebook/Google Colab
 Using Google Colab (Recommended):
 - No additional installation required, upload ipynb file to Google Colab
+
+![](colabupload.JPG)
+
 - Create new folder in Google Colab, drag and drop files in  "data" folder into newly created folder directory.
 
 ![](colabfiles.JPG)
