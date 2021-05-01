@@ -5,6 +5,7 @@ A final year project that demonstrate techniques of OSINT to gather data and per
 
 ## Installation
 All codes are written using python3.7 and Jupyter Notebook/Google Colab
+
 Using Google Colab (Recommended):
 - No additional installation required, upload ipynb file to Google Colab
 
