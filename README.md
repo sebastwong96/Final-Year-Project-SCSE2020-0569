@@ -6,7 +6,7 @@ A final year project that demonstrate techniques of OSINT to gather data and per
 ## Installation
 All codes are written using python3.7 and Jupyter Notebook/Google Colab
 
-Using Google Colab (Recommended):
+Using Google Colab:
 - No additional installation required, upload ipynb file to Google Colab
 
 ![](colabupload.JPG)
@@ -16,15 +16,9 @@ Using Google Colab (Recommended):
 ![](colabfiles.JPG)
 - A point to note is that vcdb.csv is over 100MB, which will take a while to upload into Google Colab.
 
-When using Jupyter Notebook, it is necessary to downgrade to python3.7
-- Using Anaconda Prompt, run  the command below
- ```sh
-conda install python=3.7
-```
-- Lauch Jupyter Notebook from command prompt.
- ```sh
-jupyter notebook
-```
+Using Jupyter Notebook:
+-Lauch .ipynb in Jupyter Notebook
+> NLP.ipynb codes does not run on Jupyter Notebook due to modules conflict.
 
  
 
@@ -37,6 +31,6 @@ vcdb.ipynb - Data processing of vcdb.csv and final analysis done after concatena
 - Input : vcdb.csv, PRC_USBP.csv
 - Output: final_repo.csv
 
-NLP.ipynb - Executes only in Google Colab due to module support issues.
+NLP.ipynb - Executes only in Google Colab due to module support conflicts.
 - Input : itgovernance_links.csv
 - Output: governance_link.csv
